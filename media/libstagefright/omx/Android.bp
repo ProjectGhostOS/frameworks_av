@@ -32,6 +32,7 @@ cc_defaults {
         "1.0/WOmxNode.cpp",
         "1.0/WOmxObserver.cpp",
         "1.0/WOmxBufferSource.cpp",
+        "generic_source.c"
     ],
 
     export_include_dirs: [
